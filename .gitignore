@@ -5,3 +5,5 @@ uv.lock
 /Lab-04/data/pc_parts.zip
 /Lab-04/data/cifar-10-python.tar.gz
 /Lab-04/data/cifar-10-batches-py/*
+
+/Lab-05/data/*
